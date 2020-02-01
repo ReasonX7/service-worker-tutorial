@@ -1,0 +1,19 @@
+{
+  "name": "service-worker-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReasonX7/service-worker-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReasonX7/service-worker-tutorial/issues"
+  },
+  "homepage": "https://github.com/ReasonX7/service-worker-tutorial#readme"
+}
